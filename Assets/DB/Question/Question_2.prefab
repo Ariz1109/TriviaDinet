@@ -44,11 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa14b710c01c0b4d92f8d52f49e16ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: "\xBFPregunta2?"
+  text: Marque la alternativa CORRECTA
   options:
-  - text: 1
+  - text: Fulfillment
     correct: 1
-  - text: 2
+  - text: Fullfillment
     correct: 0
-  - text: 3
+  - text: Fulfilment
     correct: 0

@@ -6,7 +6,7 @@ using System;
 [RequireComponent(typeof(Image))]
 public class OptionButton : MonoBehaviour
 {
-    private Text text = null;
+    [SerializeField]private Text text = null;
     private Button button = null;
     private Image image = null;
     private Color originalColor = Color.black;

@@ -44,11 +44,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa14b710c01c0b4d92f8d52f49e16ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: "\xBFPregunta1?"
+  text: "\xBFQu\xE9 es ecommerce?"
   options:
-  - text: 1
+  - text: "La pr\xE1ctica de comprar y vender productos a trav\xE9s de internet"
     correct: 1
-  - text: 2
+  - text: "La pr\xE1ctica de comprar y vender productos a trav\xE9s de solo tiendas
+      f\xEDsicas"
     correct: 0
-  - text: 3
+  - text: "La pr\xE1ctica de comprar y vender productos a trav\xE9s de call centers"
     correct: 0

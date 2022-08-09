@@ -44,11 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4aa14b710c01c0b4d92f8d52f49e16ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: "\xBFPregunta4?"
+  text: "No es un proceso log\xEDstico relacionado con las operaciones de Dinet"
   options:
-  - text: 1
+  - text: Financiamiento
     correct: 1
-  - text: 2
+  - text: Aprovisionamiento
     correct: 0
-  - text: 3
+  - text: "Producci\xF3n"
     correct: 0
